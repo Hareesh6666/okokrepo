@@ -1,0 +1,4 @@
+int a:
+int b:
+sub=a-b;
+print sub;
